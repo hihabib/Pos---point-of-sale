@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "backup-remote-20251210-165104",
+    "backup-remote-20251210-165302",
+    "backup-remote-20251210-165624",
+    "backup-remote-20251210-170238",
+    "backup-remote-20251210-170709",
+    "main"
+  ],
+  "parent": {
+    "backup-remote-20251210-165104": "main",
+    "backup-remote-20251210-165302": "main",
+    "backup-remote-20251210-165624": "main",
+    "backup-remote-20251210-170238": "main",
+    "backup-remote-20251210-170709": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "backup-remote-20251210-165104",
+    "backup-remote-20251210-165302",
+    "backup-remote-20251210-165624",
+    "backup-remote-20251210-170238",
+    "backup-remote-20251210-170709"
+  ]
+}
